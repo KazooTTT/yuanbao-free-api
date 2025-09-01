@@ -5,3 +5,5 @@ pydantic
 Requests
 sse_starlette
 uvicorn
+openai
+python-dotenv
